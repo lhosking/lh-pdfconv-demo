@@ -1,0 +1,11 @@
+declared-services:
+  document-conversion-service:
+    label: document_conversion
+    plan: standard
+applications:
+- services:
+  - Document Conversion-55
+  name: lh-pdfconv-demo
+  command: npm start
+  path: .
+  memory: 1024M
