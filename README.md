@@ -2,7 +2,7 @@
 
   The [Document Conversion][service_url] service transforms HTML, PDF, and Microsoft™ Word documents into normalized HTML, plain text, or sets of Answer units. The Answer units can be run through a utility to convert it to the Solr JSON file type needed to train the Retrieve and Rank service.
 
-  This [modified version][lh_service_url] of he Document Conversion service demo application converts a medical referral PDF document into JSON and provides a link to retrieve further information about the healthcare provider that authored the referral.
+  This [modified version][lh_service_url] of the Document Conversion service demo application converts a medical referral PDF document into JSON and provides a link to retrieve further information about the healthcare provider that authored the referral.
 
 Give it a try! 
 
